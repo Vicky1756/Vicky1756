@@ -27,5 +27,6 @@
 * Data Science
 * Frontend and Backend Web Development
 
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vicky1756&layout=compact&theme=tokyonight&langs_count=10" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/?username=Vicky1756&layout=compact&card_width=275&theme=tokyonight"/>
