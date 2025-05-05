@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vicky</h1>
-<p align="center">A 24-year-old who recently traded the spicy Thai streets for the bustling Bush Capital (I hope they've got good Thai food here!). By day, I'm a full-time cat owner, and by night, I dabble in coding like a secret agent of the digital world. I've got a knack for programming, robotics, and wine tasting.</p>
+<p align="center"> By day, I'm a full-time cat owner, and by night, I dabble in coding like a secret agent of the digital world. I've got a knack for programming, robotics, and wine tasting.</p>
 
 <p align="center">When I'm not furiously typing away or teaching my cat the latest tech trends (he's a bit slow on the uptake), you'll find me in front of Netflix, lost in the abyss of endless series. Or maybe I'll be engrossed in some manga, contemplating the meaning of life, one comic panel at a time. And speaking of contemplation, I'm always up for some wine tasting adventures. So if you've got wine suggestions, bring 'em on – I appreciate them almost as much as a bug-free code! 😂🍷" </p>
 
